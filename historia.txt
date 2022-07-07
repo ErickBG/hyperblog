@@ -7,3 +7,6 @@ git add: es para añadir un archivo a nuestra rama seguidamente ponemos entre co
 git rm: lo usamos para borrar un archivo que hayamos añadido, para eliminarlo por completo de nuestra rama usamosgit rm --cached.
 
 git commit: se usa para añadir un commit a nuestra rama, también podemos ponerle un -m seguidamente ponemos entre comillas nuestro ensaje.
+
+git rm --cached nombre_del_archivo.txt: para eliminar el archivo del staged(ram)
+git rm nombre_del_archivo.txt: para eliminar del repositorio
