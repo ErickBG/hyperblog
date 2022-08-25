@@ -13,6 +13,8 @@ git rm nombre_del_archivo.txt: para eliminar del repositorio
 
 Experimento 1
 
+Experimento 2
+
 master 1
 
 master 2
