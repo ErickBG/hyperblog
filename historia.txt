@@ -11,5 +11,7 @@ git commit: se usa para añadir un commit a nuestra rama, también podemos poner
 git rm --cached nombre_del_archivo.txt: para eliminar el archivo del staged(ram)
 git rm nombre_del_archivo.txt: para eliminar del repositorio
 
+master 1
+
 Hablar de su vida alv
 y obra maestra también
